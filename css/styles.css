@@ -1,0 +1,174 @@
+html {
+  font: "slab" serif;
+  font-family: "Arvo", serif;
+}
+
+#hamburger {
+  text-align: left;
+}
+
+.header {
+  background-image: url("../img/backgrounds/landing.jpg");
+  padding: 130px;
+}
+
+.head-content {
+  text-align: center;
+}
+
+.text {
+  color: #FDFEFE;
+}
+
+.happyParty {
+  padding: 0px;
+}
+
+#HH {
+  background-color: #FDFEFE;
+  text-align: center;
+  padding: 35px;
+  margin: 0px;
+}
+
+#PT {
+  background-color: #F15A29;
+  color: #FDFEFE;
+  text-align: center;
+  padding: 35px;
+  padding-left: 10px;
+  margin: 0px;
+}
+
+#breakfast {
+  background-image: url("../img/foodtop/breakfast.jpg");
+  color: #FDFEFE;
+  text-align: center;
+  padding: 85px;
+}
+
+#lunch {
+  background-image: url("../img/foodtop/lunch.jpg");
+  color: #FDFEFE;
+  text-align: center;
+  padding: 85px;
+}
+
+#dinner {
+  background-image: url("../img/foodtop/dinner.jpg");
+  color: #FDFEFE;
+  text-align: center;
+  padding: 85px;
+}
+
+#breakfast:hover,
+#dinner:hover,
+#lunch:hover {
+  color: #000;
+  background-color: #fff;
+  opacity: 0.5;
+}
+
+#breakfast:hover p,
+#dinner:hover p,
+#lunch:hover p,
+}
+  color: black;
+  opacity: 1;
+} 
+#fastfood {
+  float: right;
+  width: 40%;
+  margin: 60px;
+  text-align: left;
+}
+
+#FF {
+  float: left;
+  width: 40%;
+  margin: 30px;
+  text-align: center;
+  background-color: #FDFEFE;
+}
+
+#viewGallery {
+  color: #F15A29;
+  border-color: #F15A29;
+  background-color: #FDFEFE;
+  padding: 10px;
+  padding-right: 20px;
+}
+
+.drinks {
+  float: left;
+  width: 50%;
+}
+
+#drinks {
+  float: right;
+  width: 40%;
+}
+
+.main-section {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.section2 {
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  /*padding: 10px;*/
+}
+
+#foods-tab {
+  padding: 100px;
+  text-align: center;
+}
+
+#tabs {
+  background-color: #FDFEFE;
+  padding: 10px;
+  text-align: center;
+}
+
+.thumbnail {
+  padding: 10px;
+}
+
+.happyCustomers {
+  margin: 10px;
+  padding: 100px;
+  font-size: 12;
+}
+
+#email {
+  width: 500px;
+}
+
+.subscribe {
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  padding: 100px;
+}
+
+.footer {
+  background-color: #F15A29;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer-text {
+  color: #FDFEFE;
+}
+
+.menu {
+  color: #FDFEFE;
+}
+
+.logos {
+  color: #F15A29;
+}
+
+.smallfont {
+  color: #FDFEFE;
+}
